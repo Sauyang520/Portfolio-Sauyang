@@ -21,7 +21,7 @@ const projectData = [
     {
         id: 3,
         title: "APU Extension",
-        description: "A Google Chrome for collecting data from TradingView.",
+        description: "A Google Chrome extension for collecting data from TradingView.",
         image: "/projects/APUExtension.png",
         gitUrl: "https://github.com/Sauyang520/APU-Extension"
     },
